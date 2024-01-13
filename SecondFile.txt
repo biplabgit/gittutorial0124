@@ -1,1 +1,2 @@
 Second file added from another workspace
+Edited from workspace 1
