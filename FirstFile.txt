@@ -1,1 +1,2 @@
 This is first file into git repository from repo 1
+modified first file from workspace2
